@@ -129,7 +129,7 @@ cd Customer-Churn-ANN
 
 3. Run the notebook:
 ```bash
-jupyter notebook sCustomer_Churn_ANN.ipynb
+jupyter notebook Customer_Churn_ANN.ipynb
 ```
 
 ---
