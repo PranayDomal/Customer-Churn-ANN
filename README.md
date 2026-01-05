@@ -63,11 +63,11 @@ After threshold tuning and class-weighting:
 
 | Class | Precision | Recall |
 |-----|----------|--------|
-| No Churn (0) | 0.94 | 0.65 |
-| Churn (1) | 0.37 | 0.84 |
+| No Churn (0) | 0.95 | 0.58 |
+| Churn (1) | 0.34 | 0.89 |
 
-- **Churn Recall:** ~84%  
-- **Accuracy:** ~68%  
+- **Churn Recall:** ~89%  
+- **Accuracy:** ~64%  
 
 > This trade-off is intentional and appropriate for churn prediction, where missing a churner is more costly than flagging a false positive.
 
